@@ -1,0 +1,16 @@
+.box {
+    height: 100px;
+    width: 100px;
+}
+
+.box.one {
+    background-color: pink;
+}
+
+.box.two {
+    background-color: orange;
+}
+
+.box.three {
+    background-color: red;
+}
