@@ -1,0 +1,21 @@
+div {
+    border: 0px;
+}
+
+#section-1 {
+    background-color: aqua;
+    height: 33.33vh;
+    width: 100vw;
+}
+
+#section-2 {
+    background-color: blueviolet;
+    height: 33.33vh;
+    width: 100vw;
+}
+
+#section-3 {
+    background-color: brown;
+    height: 33.33vh;
+    width: 100vw;
+}
