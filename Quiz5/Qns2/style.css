@@ -1,0 +1,12 @@
+div {
+    background-image: url(/Users/jarednjk/repos/QuizSet/Quiz2/Qns4/plant.jpeg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+p {
+    background-color: orange;
+    position: absolute;
+    top: 50%;
+}
