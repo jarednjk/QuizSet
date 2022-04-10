@@ -1,0 +1,9 @@
+div {
+    background-image: url(/Users/jarednjk/repos/QuizSet/Quiz2/Qns4/plant.jpeg);
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
