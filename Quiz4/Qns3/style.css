@@ -1,0 +1,33 @@
+nav {
+    background-color: green;
+    height: 40px;
+    width: 100vw;
+    position: fixed;
+}
+
+#section-1 {
+    background-color: aqua;
+    height: 33.33vh;
+    width: 100vw;
+}
+
+#section-2 {
+    background-color: blueviolet;
+    height: 33.33vh;
+    width: 100vw;
+}
+
+#section-3 {
+    background-color: brown;
+    height: 33.33vh;
+    width: 100vw;
+}
+
+#box {
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    top: 50%;
+    left: 50%;
+    position: fixed;
+}
